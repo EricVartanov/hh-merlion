@@ -67,6 +67,7 @@
         font-size: 14px;
         line-height: 140%;
         padding-left: 15px;
+        max-width: 88vw;
     }
     .idc-info ul li::before {
         top: 8px;
